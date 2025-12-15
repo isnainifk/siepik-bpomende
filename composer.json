@@ -1,0 +1,9 @@
+{
+	"config": {
+		"platform-check": false
+	},
+	"require": {
+		"dompdf/dompdf": "^3.1",
+		"phpoffice/phpspreadsheet": "^1.25.2"
+	}
+}
